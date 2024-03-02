@@ -28,3 +28,7 @@
  <img src="https://img.shields.io/badge/Git/Github-8c1b50?style=flat-round&logo=git&logoColor=white"/>
 </h3>
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
