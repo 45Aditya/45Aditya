@@ -1,28 +1,30 @@
-<h2 align="left">Hi 👋! My name is Ujjwal Dobliyal and I'm a 2nd year Btech student, from Graphic Era Hill University</h2>
+<h1 style="color: red;"> Hey There! I am Ujjwal Dobliyal  </h1> 
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ 
+[![Linkedin: Ujjwal Dobliyal](https://img.shields.io/badge/-Ujjwal_Dobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjwal-dobliyal-9689b6289/)](https://www.linkedin.com/in/ujjwal-dobliyal-9689b6289/)
+[![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Ujjwal-Dobliyal?label=follow&style=social)](https://github.com/45Aditya)
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+<h2 align="center">Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=27px> </h2>
 
-###
+<h3 align="center"> Languages:
+ <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-round&logo=python&logoColor=white" height="20"/>
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  
+ <img src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-round&logo=javascript&logoColor=white" height="20"/>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+</h3>
 
-###
+<h3 align="center">Frameworks:
+ <img src="https://img.shields.io/badge/-TailwindCSS-39a9bf?style=flat-round&logo=tailwindcss&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-5f3596?style=flat-round&logo=bootstrap&logoColor=white"/>
+ </h3>
+ 
+<h3 align="center">Additional:
+ <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-round&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3"/>
+ <img src="https://img.shields.io/badge/Git/Github-8c1b50?style=flat-round&logo=git&logoColor=white"/>
+</h3>
+
